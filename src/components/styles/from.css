@@ -1,0 +1,73 @@
+.from1{
+    padding: 5px 35%;
+    border: 1px solid rgb(140, 131, 131);
+}
+.menus{
+    margin-top: 10px;
+    padding: 5px 25%;
+    border: 1px solid rgb(140, 131, 131);
+}
+.dropdowm input{
+    padding: 4px 20px;
+    outline:  none;
+    margin-left: 15px;
+    background:  #3b7ddd;
+    border: none;
+    color: #fff;
+}
+.card{
+   background: #3b7ddd;
+   border-radius: 0;
+   color: #fff;
+   margin-top: 10px;
+}
+.table:not(.table-dark) th {
+    color: #ffffff;
+}
+.totales{
+    display: flex;
+    justify-content: center;
+    gap: 50%;
+    border-top: 2px solid black;
+    border-right: 1px solid black;
+    border-left: 1px solid black;
+    border-bottom: 1px solid black;
+    text-align: center;
+    margin-top: 10px;
+}
+.trs{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+
+}
+p{
+    color: #000;
+}
+.btss{
+    padding: 4px 45%;
+    margin-top: 10px;
+    border: none;
+    background: #28a745;
+    color: #ffffff;
+}
+.twoSlider{
+    padding: 30px 50px;
+display: grid;
+grid-template-columns: 1fr 1fr;
+gap: 5%;
+}
+.ddd{
+    background: #ce2d2d;
+    color: #fff;
+    border: none;
+}
+.firstone{
+    height: 90vh;
+    padding: 25px 15px;
+    box-shadow: 0 2px 4px rgba(5, 6, 7, 0.12);
+    margin-bottom: 1.5rem;
+
+}

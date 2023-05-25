@@ -1,0 +1,90 @@
+.firstone{
+    color: black;
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    text-align: center;
+}
+.firstone h1{
+    font-size: 25px;
+    color: black;
+}
+.userex{
+    padding: 2% 4%;
+}
+.upper{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 2%;
+    margin-bottom: 4%;
+}
+.upper h2{
+    font-size: 20px;
+}
+.bbtnn{
+    padding: 5px 30px;
+    color: #fff;
+    border: none;
+    font-weight: 500;
+    background-color: #696cff;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.beta{
+    display: grid;
+    grid-template-columns: 1fr 1fr ;
+    margin-top: 2%;
+}
+.hr{
+    margin-top: 20px;
+}
+.menusss {
+    padding: 1% 9%;
+    margin-left: 2%;
+}
+.btnsss{
+    color: #fff;
+    padding: 0px 1%;
+    background-color: #696cff;
+    margin-left: 10px;
+    font-size: 12px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    border-radius: 5px;
+}
+.col-12{
+    display: flex;
+    text-align: center;
+}
+.btnsss:hover{
+    color: #fffbfb;
+    background-color: #3b3ef5;
+}
+.secound{
+    border-top: 4px solid #696cff;
+    background-color: #fffbfb;
+    box-shadow: -10px 10px 5px rgba(0,0,0,0.03);
+    border-radius: 15px;
+    padding: 20px 40px;
+}
+.nnn{
+    padding: 10px;
+}
+.headdd{
+    margin-bottom: 20px;
+    margin-top: 50px;
+}
+.text-end{
+    margin-bottom: 20px;
+    margin-top: 50px;
+    text-align: center;
+}
+.text-end input{
+    padding: 5px 10px;
+}
+.added{
+  display: grid;
+  grid-template-columns: 1fr 10fr;
+}

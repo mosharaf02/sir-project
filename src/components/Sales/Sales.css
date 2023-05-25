@@ -1,0 +1,12 @@
+.grid{
+    display: grid;
+    grid-template-columns: 1fr 10fr;
+}
+.btnsss{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.span{
+    margin-top: 8px;
+}
